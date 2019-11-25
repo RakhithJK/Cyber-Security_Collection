@@ -3,6 +3,9 @@
 
 [中文版本](https://github.com/xrkk/awesome-cyber-security/blob/master/Readme.md)
 
+The page You see here is a stripped version: Repos with less than 200 stars and last modified more than 500 days ago are not included.
+Check FULL version here: [English Version-Full](https://github.com/xrkk/awesome-cyber-security/blob/master/Readme_full_en.md)
+
 
 # Directory
 - [Tools](#94ca60d12e210fdd7fd9e387339b293e)
@@ -7290,7 +7293,7 @@
 - [**2421**Star][4m] [Go] [oj/gobuster](https://github.com/oj/gobuster) Directory/File, DNS and VHost busting tool written in Go
 - [**2278**Star][30d] [Py] [ab77/netflix-proxy](https://github.com/ab77/netflix-proxy) Smart DNS proxy to watch Netflix
 - [**2081**Star][19d] [Py] [elceef/dnstwist](https://github.com/elceef/dnstwist) Domain name permutation engine for detecting typo squatting, phishing and corporate espionage
-- [**1885**Star][27d] [C++] [powerdns/pdns](https://github.com/powerdns/pdns) PowerDNS
+- [**1885**Star][28d] [C++] [powerdns/pdns](https://github.com/powerdns/pdns) PowerDNS
 - [**1669**Star][3m] [Py] [lgandx/responder](https://github.com/lgandx/responder) Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.
 - [**1117**Star][7m] [Py] [darkoperator/dnsrecon](https://github.com/darkoperator/dnsrecon) DNS Enumeration Script
 - [**1046**Star][3y] [Perl] [samyk/usbdriveby](https://github.com/samyk/usbdriveby) USBdriveby exploits the trust of USB devices by emulating an HID keyboard and mouse, installing a cross-platform firewall-evading backdoor, and rerouting DNS within seconds of plugging it in.
@@ -7385,7 +7388,7 @@
 ### <a id="94c01f488096fafc194b9a07f065594c"></a>nmap
 
 
-- [**3492**Star][16d] [C] [nmap/nmap](https://github.com/nmap/nmap) Nmap - the Network Mapper. Github mirror of official SVN repository.
+- [**3492**Star][17d] [C] [nmap/nmap](https://github.com/nmap/nmap) Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [**2099**Star][6m] [Py] [calebmadrigal/trackerjacker](https://github.com/calebmadrigal/trackerjacker) Like nmap for mapping wifi networks you're not connected to, plus device tracking
 - [**1666**Star][3m] [Lua] [vulnerscom/nmap-vulners](https://github.com/vulnerscom/nmap-vulners) NSE script based on Vulners.com API
 - [**1497**Star][2m] [C] [nmap/npcap](https://github.com/nmap/npcap) Nmap Project's packet sniffing library for Windows, based on WinPcap/Libpcap improved with NDIS 6 and LWF.
